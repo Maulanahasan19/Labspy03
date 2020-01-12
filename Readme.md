@@ -32,6 +32,7 @@ print("Data ke:",i,"=>",(a))
 ```
 'i' adalah hasil dari jumlah perulangan yang telah dilakukan. Dan 'a' akan menampilkan nilai secara acak karena fungsi random yang telah diinput.
 ### Gambar hasil latihan 1
+![Latihan1](https://user-images.githubusercontent.com/56240386/72215875-e3ddba80-354b-11ea-9ed3-10dcb91f9988.png)
 
 
 ## Latihan 2
@@ -64,6 +65,7 @@ while a >= 0:
 print("Bilangan terbesar adalah", b)
 ```
 ### Gambar hasil latihan 2
+![Latihan2](https://user-images.githubusercontent.com/56240386/72215887-066fd380-354c-11ea-82a4-9e8eb3c3efa9.png)
 
 
 ## Program 1
@@ -102,4 +104,5 @@ for i in range (1,9):
 print("Total laba adalah : ", untung)
 ```
 ### Gambar hasil program 1
+![Program1](https://user-images.githubusercontent.com/56240386/72215899-230c0b80-354c-11ea-81cf-2aad9f451f21.png)
 
